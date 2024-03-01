@@ -1,5 +1,4 @@
 ![logo](https://github.com/zinxon/zinxon/blob/main/Github%20Banner.gif)
-<img alt="Contribtion" src="https://github.com/zinxon/zinxon/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
 <h1 align="center">Hi 👋, I'm James Wong</h1>
 <h3 align="center">AWS Certified Solutions Architect & Full-Stack Developer </h3>
@@ -21,10 +20,16 @@
     <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,javascript,typescript,tailwind,nodejs,express,java,python,php" />
     <img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,mysql,postgres,firebase,docker,terraform,nginx,redis,flutter,dart" />
     <img src="https://skillicons.dev/icons?i=github,gitlab,githubactions,git,vscode,postman,flask,figma,bun,bash" />
-  <br>
+    <br/><br/>
 </div>
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="Contribtion" src="https://github.com/zinxon/zinxon/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zinxon/zinxon/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/>
+</div>
 
 <div align="center">
   <h2>🔸 My Stats 🔸</h2>
@@ -32,11 +37,5 @@
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zinxon&theme=react" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinxon&layout=compact&langs_count=8&theme=react" />
 <span>&emsp;&emsp;</span>
-</div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zinxon/zinxon/output/github-contribution-grid-snake-dark.svg" />
-  <br/><br/><br/>
+  
 </div>
