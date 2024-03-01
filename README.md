@@ -24,13 +24,19 @@
   <br>
 </div>
 
+
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🔸 My Stats 🔸</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zinxon/zinxon/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=zinxon&theme=react" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinxon&layout=compact&langs_count=8&theme=react" />
+<span>&emsp;&emsp;</span>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinxon&layout=compact" />
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zinxon/zinxon/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/><br/>
 </div>
