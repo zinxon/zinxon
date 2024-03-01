@@ -19,7 +19,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,javascript,typescript,tailwind,nodejs,express,java,python,php" />
     <img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,mysql,postgres,firebase,docker,terraform,nginx,redis,flutter,dart" />
-    <img src="https://skillicons.dev/icons?i=github,gitlab,githubactions,git,nginx,postman,flask,figma,bun,bash" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,githubactions,git,vscode,postman,flask,figma,bun,bash" />
   <br>
 </div>
 
