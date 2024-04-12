@@ -1,7 +1,5 @@
 ![logo](https://github.com/zinxon/zinxon/blob/main/Github%20Banner.gif)
 
-https://github.com/zinxon/zinxon/assets/24634403/844fad76-ee5a-4bc0-90e7-ade3d9fabc6b
-
 <h1 align="center">Hi 👋, I'm James Wong</h1>
 <h3 align="center">AWS Certified Solutions Architect & Full-Stack Developer </h3>
 <div align="center"> 
