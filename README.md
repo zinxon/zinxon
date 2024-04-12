@@ -1,4 +1,4 @@
-![logo](https://github.com/zinxon/zinxon/blob/main/Github%20Banner.gif)
+![logo](https://github.com/zinxon/zinxon/blob/main/a0216035-86a5-4f6d-85e1-952c6a6b3fc4.gif)
 
 <h1 align="center">Hi 👋, I'm James Wong</h1>
 <h3 align="center">AWS Certified Solutions Architect & Full-Stack Developer </h3>
